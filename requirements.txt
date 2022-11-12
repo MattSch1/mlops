@@ -9,3 +9,11 @@ openai
 python-youtube
 pandas 
 huggingface
+pandas 
+huggingface
+transformers
+tensorflow  
+pylint 
+click
+beautifulsoup4
+wikipedia
