@@ -17,3 +17,4 @@ pylint
 click
 beautifulsoup4
 wikipedia
+ipython
