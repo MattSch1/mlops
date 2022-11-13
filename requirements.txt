@@ -12,7 +12,7 @@ huggingface
 pandas 
 huggingface
 transformers
-pytorch   
+torch   
 pylint 
 click
 beautifulsoup4
