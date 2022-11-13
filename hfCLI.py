@@ -17,5 +17,5 @@ def extract_text(url):
 # write a function that uses hugging face to return a summary of the text
 def summarize(text):
     summarizer = pipeline("summarization", model="t5-small")
-    summary = summarizer(text, max_length=130, min_length=30, do_sample=False)
-    return summary
+    summary = summarizer(text, max_length=180)
+    return summary[0]["summary_text"]
