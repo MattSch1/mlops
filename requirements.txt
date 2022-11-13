@@ -9,10 +9,8 @@ openai
 python-youtube
 pandas 
 huggingface
-pandas 
-huggingface
 transformers
-torch   
+tensorflow  
 pylint 
 click
 beautifulsoup4
