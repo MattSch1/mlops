@@ -10,8 +10,6 @@ python-youtube
 pandas 
 huggingface
 transformers
-tensorflow  
-pylint 
 click
 beautifulsoup4
 wikipedia
